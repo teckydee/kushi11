@@ -1,0 +1,39 @@
+.label {margin: 2px 0;}
+.field {margin: 0 0 20px 0;}	
+#message {  padding: 0px 40px 0px 0px; }
+#form-status {
+	padding: 12px 20px;
+	width: 100%;
+	display:none; 
+	font-size: 15px;
+	color: #fff;
+}
+.sendMessage input {
+    width: 100%;
+    height: 40px;
+    appearance: none;
+    border: 1px solid #999;
+    margin-bottom: 20px;
+    padding: 10px 20px !important;
+    font-size: 13.33px !important;
+}
+.sendMessage textarea {
+    padding: 10px 20px !important;
+}
+.error{
+	/*background-color: #f44336c7;*/
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.success{
+	margin-top: 20px;
+    border-radius: 5px;
+    background-color: #4CAF50; 
+    font-family: 'Poppins';
+}
+div#pls_wait_contact {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
+	  
